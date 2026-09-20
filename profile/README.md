@@ -15,12 +15,11 @@ Fans tip streamers through local payment rails — creators get real-time OBS ov
 
 ---
 
-### Repositories
+### Contact
 
-| Repo | What lives there |
-|------|------------------|
-| [Superchat-BD](https://github.com/SuperchatBD/Superchat-BD) | Monorepo — Next.js web app, NestJS API, Bun overlay service |
-| [.github](https://github.com/SuperchatBD/.github) | Org profile (this page) + shared branding |
+- **Site:** [superchat.bd](https://superchat.bd)
+- **Facebook:** [facebook.com/superchatbd](https://facebook.com/superchatbd)
+- **YouTube:** [youtube.com/@superchatbd](https://youtube.com/@superchatbd)
 
 ### Payments
 
